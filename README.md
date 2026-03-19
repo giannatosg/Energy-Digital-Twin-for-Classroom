@@ -1,6 +1,6 @@
 # Energy-Digital-Twin-for-Classroom
 My first digital twin project. Optimising the consumption of a classroom.
-Digital Twin Project Description
+Project Description:
 
 Thematic Area: Smart Buildings and Energy Management
 Title: Development of a Digital Twin for Monitoring and Optimizing Energy Consumption in Educational Spaces.
